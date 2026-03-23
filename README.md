@@ -1,10 +1,17 @@
 Hi, I’m Prince Vamja 👋
-Next.js & React developer building modern web applications.
-Focused on performance, scalability, and clean UI design.
-Skilled in JavaScript, TypeScript, Node.js, and Express.js.
-Experience with MongoDB and MySQL for backend systems.
-I enjoy solving real-world problems through code.
-Currently learning system design and advanced development concepts.
+
+I’m a Next.js & React Developer focused on building fast, scalable, and user-centric web applications.
+I specialize in creating production-ready solutions with clean architecture and modern UI practices.
+
+I work primarily with JavaScript/TypeScript, using React.js and Next.js for frontend development,
+and Node.js with Express.js for backend APIs and system logic.
+
+I have experience with MongoDB and MySQL, focusing on efficient and reliable data handling.
+
+My strength lies in crafting high-performance frontend experiences integrated with solid backend systems.
+I’m also exploring system design, scalability, and deployment using tools like Vercel.
+
+I’m passionate about clean code, continuous learning, and building meaningful digital products.
 
 🚀 Currently focused on:
 Building scalable full-stack applications, improving system design skills, and mastering production-level development
@@ -34,7 +41,6 @@ Building scalable full-stack applications, improving system design skills, and m
 ### ☁️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 🌐 Portfolio
 👉 https://www.vamjaprince.dev
