@@ -21,7 +21,6 @@ Building scalable full-stack applications, improving system design skills, and m
 ### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
